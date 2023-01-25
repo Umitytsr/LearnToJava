@@ -1,0 +1,8 @@
+
+
+
+
+  FİNAL
+* Değişkenlerin başında old. değeri sonradan değiştirilemez.
+* Metodların başında old. OVERRİDE edilemezler.
+* Class'ların başında ol. EXTEND edilemezler.
