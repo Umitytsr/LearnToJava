@@ -1,4 +1,4 @@
-package Gun15;
+package Gun15_Nested;
 
 public class _02_JavaNestedLoop {
     public static void main(String[] args) {

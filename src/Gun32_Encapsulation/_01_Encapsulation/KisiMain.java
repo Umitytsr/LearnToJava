@@ -1,4 +1,4 @@
-package Gun32._01_Encapsulation;
+package Gun32_Encapsulation._01_Encapsulation;
 
 public class KisiMain {
     public static void main(String[] args) {

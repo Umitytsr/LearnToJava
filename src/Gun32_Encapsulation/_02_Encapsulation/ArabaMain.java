@@ -1,10 +1,13 @@
-package Gun32._02_Encapsulation;
+package Gun32_Encapsulation._02_Encapsulation;
 
 public class ArabaMain {
     public static void main(String[] args) {
-        // Bir araba nesnesi oluşturulmak isteniyor. fields(Renk, Model, MotorHacmi,KapiSayisi)
-        // Bu nesnenin verilerini OOP kurallarına uygun olarak verip alınız.
-        // Main de 1 tane nesne oluşturup bunu kontrol ediniz.
+        // Bir araba nesnesi oluşturulmak isteniyor.
+        // fields(Renk, Model, MotorHacmi,KapiSayisi)
+        // Bu nesnenin verilerini OOP kurallarına uygun
+        // olarak verip alınız.
+        // Main de 1 tane nesne oluşturup bunu kontrol
+        // ediniz.
 
         Araba car1=new Araba();
         car1.setRenk("beyaz");
@@ -18,7 +21,8 @@ public class ArabaMain {
         Araba car2=new Araba("mavi",2008,2444,5);
         System.out.println("car2 = " + car2);
 
-        //GET'i sonradan kullanmak için Araba class'ında açtık. Örneğin;
+        // GET'i sonradan kullanmak için Araba
+        // class'ında açtık. Örneğin;
         int arabaModeli=car1.getModel();
         System.out.println("arabaModeli = " + arabaModeli);
 

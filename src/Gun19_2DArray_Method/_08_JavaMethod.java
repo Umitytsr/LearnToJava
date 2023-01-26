@@ -1,4 +1,4 @@
-package Gun19;
+package Gun19_2DArray_Method;
 
 import java.util.Arrays;
 
@@ -10,10 +10,10 @@ public class _08_JavaMethod {
 
         int[] dizi=new int[20];
 
-        yirmiElemanlıDizi(dizi);
+        yirmiElemanliDizi(dizi);
     }
 
-    public static void yirmiElemanlıDizi(int[] sayilar){
+    public static void yirmiElemanliDizi(int[] sayilar){
         for (int i = 0; i < sayilar.length; i++) {
             sayilar[i]=(int) (Math.random()*100);
 

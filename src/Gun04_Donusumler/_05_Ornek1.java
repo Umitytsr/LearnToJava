@@ -1,4 +1,4 @@
-package Gun04;
+package Gun04_Donusumler;
 
 public class _05_Ornek1 {
     public static void main(String[] args) {
@@ -7,8 +7,8 @@ public class _05_Ornek1 {
 
         char isminBasHarfi='A';
         int yas=25;
-        boolean yası5Mi=false;
+        boolean yasi5Mi=false;
 
-        System.out.println("İsminin baş harfi,yaşı ve Yaşı 5 mi =" +isminBasHarfi+" "+yas+" "+yası5Mi);
+        System.out.println("İsminin baş harfi,yaşı ve Yaşı 5 mi =" +isminBasHarfi+" "+yas+" "+yasi5Mi);
     }
 }

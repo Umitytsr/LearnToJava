@@ -1,4 +1,4 @@
-package Gun24_Map;
+package Gun24_Maps;
 
 import java.util.HashMap;
 

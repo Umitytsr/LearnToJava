@@ -1,10 +1,10 @@
-package Gun18;
+package Gun18_2DArray;
 
 public class _03_Java2DArray {
     public static void main(String[] args) {
         //2'ye 3^lük bir tabloyu 100e kadar random sayılarla doldurunuz
         //bütün doldurma işlemi bittikten sonra
-        //yazdırınız ve kaç tan tek sayı olduğunu bulunuz.
+        //yazdırınız ve kaç tane tek sayı olduğunu bulunuz.
 
         int[][] dizi=new int[2][3];
         int toplam=0;

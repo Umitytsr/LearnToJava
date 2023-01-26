@@ -1,4 +1,4 @@
-package Gun30._01_StaticVariables._Ornek2;
+package Gun30_Final._01_StaticVariables._Ornek2;
 
 public class Student {
     int id;

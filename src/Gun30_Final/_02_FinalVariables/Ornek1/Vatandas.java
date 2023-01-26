@@ -1,4 +1,4 @@
-package Gun30._02_FinalVariables.Ornek1;
+package Gun30_Final._02_FinalVariables.Ornek1;
 
 public class Vatandas {
     String isim;

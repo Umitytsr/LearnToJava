@@ -1,4 +1,4 @@
-package Gun25._03_Soru;
+package Gun25_OOP._03_Soru;
 
 public class Ogrenci {
     int okulNo;

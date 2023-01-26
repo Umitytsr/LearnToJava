@@ -1,4 +1,4 @@
-package Gun35_FINAL._02_Ornek;
+package Gun35_Final_Polymorphism._02_Polymorphism;
 
 public class Hayvan {
     private String name;

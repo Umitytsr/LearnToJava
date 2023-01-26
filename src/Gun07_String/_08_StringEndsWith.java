@@ -1,4 +1,4 @@
-package Gun07;
+package Gun07_String;
 
 public class _08_StringEndsWith {
     public static void main(String[] args) {

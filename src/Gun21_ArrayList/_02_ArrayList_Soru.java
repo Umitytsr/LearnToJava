@@ -1,4 +1,4 @@
-package Gun21;
+package Gun21_ArrayList;
 
 import java.util.ArrayList;
 import java.util.Arrays;

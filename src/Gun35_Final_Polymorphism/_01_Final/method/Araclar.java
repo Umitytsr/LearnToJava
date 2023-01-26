@@ -1,4 +1,4 @@
-package Gun35_FINAL._01_Final.method;
+package Gun35_Final_Polymorphism._01_Final.method;
 
 public class Araclar {
     private String model;

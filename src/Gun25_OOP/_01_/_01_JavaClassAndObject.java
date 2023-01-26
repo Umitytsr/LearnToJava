@@ -1,4 +1,4 @@
-package Gun25_OOP;
+package Gun25_OOP._01_;
 
 //class - tiplerin tanımlandığı yer
 

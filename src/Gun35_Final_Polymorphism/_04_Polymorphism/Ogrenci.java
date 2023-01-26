@@ -1,4 +1,4 @@
-package Gun35_Final_Polymorphism._03_Polymorphism;
+package Gun35_Final_Polymorphism._04_Polymorphism;
 
 public class Ogrenci extends Kisi{
     private String subesi;

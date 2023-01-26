@@ -1,4 +1,4 @@
-package Gun28._04_Constructor;
+package Gun28_Constructor._04_Constructor;
 
 public class Bank {
     String name;

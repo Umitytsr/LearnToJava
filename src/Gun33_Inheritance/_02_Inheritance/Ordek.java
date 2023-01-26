@@ -1,4 +1,4 @@
-package Gun33._02_Ornek;
+package Gun33_Inheritance._02_Inheritance;
 
 public class Ordek extends Hayvan{
     private double kanatAcikligi;

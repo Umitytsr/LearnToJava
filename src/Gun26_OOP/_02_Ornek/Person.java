@@ -1,4 +1,4 @@
-package Gun26._02_Ornek;
+package Gun26_OOP._02_Ornek;
 
 public class Person {
     String name;

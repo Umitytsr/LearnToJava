@@ -1,4 +1,4 @@
-package Gun11;
+package Gun11_Ternary_Random;
 
 import java.util.Scanner;
 

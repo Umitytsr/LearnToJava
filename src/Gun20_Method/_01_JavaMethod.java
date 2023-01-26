@@ -1,4 +1,4 @@
-package Gun20;
+package Gun20_Method;
 
 public class _01_JavaMethod {
     public static void main(String[] args) {
@@ -39,7 +39,7 @@ public class _01_JavaMethod {
     }
 
     public static int enbBul(int a,int b){
-        int donecek=0;
+        int donecek;
         if (a>b){
             donecek=a;
         }else {

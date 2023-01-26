@@ -1,4 +1,4 @@
-package Gun32._02_Encapsulation;
+package Gun32_Encapsulation._02_Encapsulation;
 
 public class Araba {
     private String renk;
@@ -10,7 +10,8 @@ public class Araba {
 
     }
 
-    //ArabaMain class'ında başına * koyduğum satırın kontrolü altta ki metodla yapılır
+    // ArabaMain class'ında başına * koyduğum
+    // satırın kontrolü altta ki metodla yapılır
     public Araba(String renk, int model, double motorHacmi, int kapiSayisi) {
         setRenk(renk);
         setModel(model);

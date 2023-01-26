@@ -1,4 +1,4 @@
-package Gun17;
+package Gun17_Array_Trim_Split;
 
 import java.util.Arrays;
 import java.util.Scanner;

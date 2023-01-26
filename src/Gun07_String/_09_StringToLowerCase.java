@@ -1,4 +1,4 @@
-package Gun07;
+package Gun07_String;
 
 public class _09_StringToLowerCase {
     public static void main(String[] args) {

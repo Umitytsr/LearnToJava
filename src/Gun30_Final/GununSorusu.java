@@ -1,4 +1,4 @@
-package Gun30;
+package Gun30_Final;
 
 public class GununSorusu {
 

@@ -1,6 +1,4 @@
-package Gun42;
-
-import javax.print.DocFlavor;
+package Gun42_StringBuilderAndVeriTipleri;
 
 public class _01_StringBufferAndStringBuilder {
     public static void main(String[] args) {

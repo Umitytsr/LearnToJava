@@ -1,4 +1,4 @@
-package Gun43;
+package Gun43_Try_Catch_Finally;
 
 public class _05_TryCatchFinally {
     public static void main(String[] args) {

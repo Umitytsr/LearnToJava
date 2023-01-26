@@ -1,4 +1,4 @@
-package Gun27._01_Ornek;
+package Gun27_Static._01_Ornek;
 
 public class Utility {
     public String getString(int sayi){

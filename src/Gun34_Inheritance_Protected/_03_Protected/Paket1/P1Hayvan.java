@@ -1,4 +1,4 @@
-package Gun34._03_Protected.Paket1;
+package Gun34_Inheritance_Protected._03_Protected.Paket1;
 
 public class P1Hayvan {
     public String ad;       // her paketten, her yerden

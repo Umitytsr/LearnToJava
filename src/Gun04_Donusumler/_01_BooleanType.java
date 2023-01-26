@@ -1,4 +1,4 @@
-package Gun04;
+package Gun04_Donusumler;
 
 public class _01_BooleanType {
     public static void main(String[] args) {

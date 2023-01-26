@@ -1,4 +1,4 @@
-package Gun02;
+package Gun02_EscapeCharacters;
 
 public class _04_Ornek3 {
     public static void main(String[] args) {

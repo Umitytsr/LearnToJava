@@ -1,6 +1,6 @@
-package Gun34._03_Protected.Paket2;
+package Gun34_Inheritance_Protected._03_Protected.Paket2;
 
-import Gun34._03_Protected.Paket1.P1Hayvan;
+import Gun34_Inheritance_Protected._03_Protected.Paket1.P1Hayvan;
 
 public class P2Main {
     public static void main(String[] args) {

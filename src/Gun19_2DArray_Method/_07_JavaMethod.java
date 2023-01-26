@@ -1,4 +1,4 @@
-package Gun19;
+package Gun19_2DArray_Method;
 
 import java.util.Scanner;
 

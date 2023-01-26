@@ -1,4 +1,4 @@
-package Gun07;
+package Gun07_String;
 
 public class _12_StringReplaceFirst {
     public static void main(String[] args) {

@@ -1,6 +1,6 @@
-package Gun29._03_Protected.iki;
+package Gun29_Erisimler._03_Protected.iki;
 
-import Gun29._03_Protected.bir.Doctor;
+import Gun29_Erisimler._03_Protected.bir.Doctor;
 
 public class HastaneIstanbul {
     public static void main(String[] args) {

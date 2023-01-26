@@ -1,6 +1,9 @@
 package Gun31_Enum._04_GununSorusu;
 
-public class Pizzaa {
-    Pizza size;
-    
+public class Pizza {
+    PizzaSize size;
+
+    public Pizza(PizzaSize size) {
+        this.size = size;
+    }
 }

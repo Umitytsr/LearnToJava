@@ -1,4 +1,4 @@
-package Gun07;
+package Gun07_String;
 
 import java.util.Scanner;
 

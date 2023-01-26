@@ -1,30 +1,522 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="796012af-f41f-45e8-9aa8-4183c86aa8a2" name="Changes" comment="" />
+    <list default="true" id="796012af-f41f-45e8-9aa8-4183c86aa8a2" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Gun01_Merhaba/Merhaba.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Gun01_Merhaba/Merhaba.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Gun02_EscapeCharacters/_01_CommentPrint.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Gun02_EscapeCharacters/_01_CommentPrint.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Gun02_EscapeCharacters/_02_Ornek1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Gun02_EscapeCharacters/_02_Ornek1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Gun02_EscapeCharacters/_03_Ornek2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Gun02_EscapeCharacters/_03_Ornek2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Gun02_EscapeCharacters/_04_Ornek3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Gun02_EscapeCharacters/_04_Ornek3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Gun02_EscapeCharacters/_05_EscapeCharacters.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Gun02_EscapeCharacters/_05_EscapeCharacters.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Gun02_EscapeCharacters/_06_GununSorusu.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Gun02_EscapeCharacters/_06_GununSorusu.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Gun02_EscapeCharacters/_07_Degiskenler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Gun02_EscapeCharacters/_07_Degiskenler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Gun03/_01_Degiskenler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Gun03/_01_Degiskenler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Gun03/_02_Degiskenler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Gun03/_02_Degiskenler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Gun03/_03_JavaDataTypes.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Gun03/_03_JavaDataTypes.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Gun03/_04_DataTypesMinMax.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Gun03/_04_DataTypesMinMax.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Gun03/_05_Ornek1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Gun03/_05_Ornek1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Gun03/_06_Ornek2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Gun03/_06_Ornek2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Gun03/_07_JavaString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Gun03/_07_JavaString.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Gun04_Donusumler/_01_BooleanType.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Gun04_Donusumler/_01_BooleanType.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Gun04_Donusumler/_02_TipDonusumleri.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Gun04_Donusumler/_02_TipDonusumleri.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Gun04_Donusumler/_03_WideningCasting.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Gun04_Donusumler/_03_WideningCasting.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Gun04_Donusumler/_04_NarrowingCasting.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Gun04_Donusumler/_04_NarrowingCasting.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Gun04_Donusumler/_05_Ornek1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Gun04_Donusumler/_05_Ornek1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Gun04_Donusumler/_06_Ornek2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Gun04_Donusumler/_06_Ornek2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Gun04_Donusumler/_07_SayiKelime.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Gun04_Donusumler/_07_SayiKelime.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Gun04_Donusumler/_08_Ornek3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Gun04_Donusumler/_08_Ornek3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Gun05_Scanner/_01_JavaScanner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Gun05_Scanner/_01_JavaScanner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Gun05_Scanner/_02_Ornek.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Gun05_Scanner/_02_Ornek.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Gun05_Scanner/_03_Ornek2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Gun05_Scanner/_03_Ornek2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Gun05_Scanner/_04_Ornek3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Gun05_Scanner/_04_Ornek3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Gun05_Scanner/_05_Ornek4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Gun05_Scanner/_05_Ornek4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Gun05_Scanner/_06_Ornek5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Gun05_Scanner/_06_Ornek5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Gun05_Scanner/_07_Ornek6.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Gun05_Scanner/_07_Ornek6.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Gun05_Scanner/_08_Ornek7.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Gun05_Scanner/_08_Ornek7.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Gun05_Scanner/_09_Ornek8.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Gun05_Scanner/_09_Ornek8.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Gun06_String/_01_Ornek.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Gun06_String/_01_Ornek.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Gun06_String/_02_StringLength.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Gun06_String/_02_StringLength.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Gun06_String/_03_StringCharAt.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Gun06_String/_03_StringCharAt.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Gun06_String/_04_Soru.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Gun06_String/_04_Soru.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Gun06_String/_05_StringIndexOf.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Gun06_String/_05_StringIndexOf.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Gun06_String/_06_Soru.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Gun06_String/_06_Soru.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Gun06_String/_07_StringConcat.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Gun06_String/_07_StringConcat.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Gun06_String/_08_StringContains.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Gun06_String/_08_StringContains.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Gun07_String/_01_StringEquals.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Gun07_String/_01_StringEquals.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Gun07_String/_02_StringEqualsIgnoreCase.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Gun07_String/_02_StringEqualsIgnoreCase.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Gun07_String/_03_StringIsEmpty.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Gun07_String/_03_StringIsEmpty.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Gun07_String/_04_StringLastIndexOf.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Gun07_String/_04_StringLastIndexOf.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Gun07_String/_05_StringSubstring.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Gun07_String/_05_StringSubstring.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Gun07_String/_06_Soru.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Gun07_String/_06_Soru.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Gun07_String/_07_StringStartsWith.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Gun07_String/_07_StringStartsWith.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Gun07_String/_08_StringEndsWith.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Gun07_String/_08_StringEndsWith.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Gun07_String/_09_StringToLowerCase.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Gun07_String/_09_StringToLowerCase.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Gun07_String/_10_StringToUpperCase.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Gun07_String/_10_StringToUpperCase.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Gun07_String/_11_StringReplace.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Gun07_String/_11_StringReplace.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Gun07_String/_12_StringReplaceFirst.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Gun07_String/_12_StringReplaceFirst.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Gun07_String/_13_StringReplaceAll.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Gun07_String/_13_StringReplaceAll.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Gun08_AritmeticOperators/_01_JavaAritmeticOperators.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Gun08_AritmeticOperators/_01_JavaAritmeticOperators.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Gun08_AritmeticOperators/_02_JavaArithmeticOperators.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Gun08_AritmeticOperators/_02_JavaArithmeticOperators.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Gun08_AritmeticOperators/_03_Ozet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Gun08_AritmeticOperators/_03_Ozet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Gun08_AritmeticOperators/_04_Soru.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Gun08_AritmeticOperators/_04_Soru.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Gun08_AritmeticOperators/_05_JavaAssignmentOperators.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Gun08_AritmeticOperators/_05_JavaAssignmentOperators.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Gun08_AritmeticOperators/_06_JavaComparisonOperators.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Gun08_AritmeticOperators/_06_JavaComparisonOperators.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Gun08_AritmeticOperators/_07_Soru.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Gun08_AritmeticOperators/_07_Soru.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Gun08_AritmeticOperators/_08_Soru.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Gun08_AritmeticOperators/_08_Soru.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Gun08_AritmeticOperators/_09_Soru.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Gun08_AritmeticOperators/_09_Soru.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Gun09_If/_01_JavaIf.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Gun09_If/_01_JavaIf.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Gun09_If/_02_JavaIf.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Gun09_If/_02_JavaIf.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Gun09_If/_03_JavaIf.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Gun09_If/_03_JavaIf.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Gun09_If/_04_JavaIf.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Gun09_If/_04_JavaIf.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Gun09_If/_05_JavaIf.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Gun09_If/_05_JavaIf.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Gun09_If/_06_JavaIf.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Gun09_If/_06_JavaIf.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Gun09_If/_07_JavaIf.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Gun09_If/_07_JavaIf.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Gun09_If/_08_JavaIf.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Gun09_If/_08_JavaIf.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Gun10_If_Mantıksalifadeler/_01_IfElse.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Gun10_If_Mantıksalifadeler/_02_IfElse.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Gun10_If_Mantıksalifadeler/_03_IfElse.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Gun10_If_Mantıksalifadeler/_04_MantiksalIfadeler.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Gun10_If_Mantıksalifadeler/_05_IfElse.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Gun10_If_Mantıksalifadeler/_06_IfElse.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Gun10_If_Mantıksalifadeler/_07_IfElse.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Gun10_If_Mantıksalifadeler/_08_IfElse.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Gun11_Ternary_Random/_01_IfElse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Gun11_Ternary_Random/_01_IfElse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Gun11_Ternary_Random/_02_IfElse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Gun11_Ternary_Random/_02_IfElse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Gun11_Ternary_Random/_03_JavaTernary.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Gun11_Ternary_Random/_03_JavaTernary.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Gun11_Ternary_Random/_04_JavaTernary.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Gun11_Ternary_Random/_04_JavaTernary.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Gun11_Ternary_Random/_05_JavaTernary.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Gun11_Ternary_Random/_05_JavaTernary.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Gun11_Ternary_Random/_06_JavaMath.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Gun11_Ternary_Random/_06_JavaMath.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Gun11_Ternary_Random/_07_JavaMath.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Gun11_Ternary_Random/_07_JavaMath.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Gun11_Ternary_Random/_08_JavaRandom.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Gun11_Ternary_Random/_08_JavaRandom.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Gun11_Ternary_Random/_09_JavaRandom.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Gun11_Ternary_Random/_09_JavaRandom.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Gun12_Switch/_01_JavaRandom.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Gun12_Switch/_01_JavaRandom.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Gun12_Switch/_02_IfElseIf.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Gun12_Switch/_02_IfElseIf.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Gun12_Switch/_03_IfElseIf.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Gun12_Switch/_03_IfElseIf.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Gun12_Switch/_04_Switch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Gun12_Switch/_04_Switch.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Gun12_Switch/_05_Switch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Gun12_Switch/_05_Switch.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Gun12_Switch/_06_Switch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Gun12_Switch/_06_Switch.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Gun13_While_DoWhile/_01_Switch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Gun13_While_DoWhile/_01_Switch.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Gun13_While_DoWhile/_02_WhileLoop.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Gun13_While_DoWhile/_02_WhileLoop.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Gun13_While_DoWhile/_03_WhileLoop.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Gun13_While_DoWhile/_03_WhileLoop.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Gun13_While_DoWhile/_04_WhileLoop.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Gun13_While_DoWhile/_04_WhileLoop.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Gun13_While_DoWhile/_05_WhileLoop.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Gun13_While_DoWhile/_05_WhileLoop.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Gun13_While_DoWhile/_06_DoWhile.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Gun13_While_DoWhile/_06_DoWhile.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Gun13_While_DoWhile/_07_DoWhile.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Gun13_While_DoWhile/_07_DoWhile.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Gun13_While_DoWhile/_08_DoWhile.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Gun13_While_DoWhile/_08_DoWhile.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Gun14_Break_For_Continue/_01_Break.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Gun14_Break_For_Continue/_01_Break.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Gun14_Break_For_Continue/_02_forLoop.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Gun14_Break_For_Continue/_02_forLoop.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Gun14_Break_For_Continue/_03_forLoop.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Gun14_Break_For_Continue/_03_forLoop.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Gun14_Break_For_Continue/_04_forLoop.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Gun14_Break_For_Continue/_04_forLoop.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Gun14_Break_For_Continue/_05_forLoop.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Gun14_Break_For_Continue/_05_forLoop.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Gun14_Break_For_Continue/_06_forLoop.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Gun14_Break_For_Continue/_06_forLoop.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Gun14_Break_For_Continue/_07_Continue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Gun14_Break_For_Continue/_07_Continue.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Gun14_Break_For_Continue/_08_Continue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Gun14_Break_For_Continue/_08_Continue.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Gun15_Nested/_01_JavaNestedLoop.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Gun15_Nested/_01_JavaNestedLoop.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Gun15_Nested/_02_JavaNestedLoop.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Gun15_Nested/_02_JavaNestedLoop.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Gun15_Nested/_03_JavaNestedLoop.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Gun15_Nested/_03_JavaNestedLoop.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Gun15_Nested/_04_JavaNestedLoop.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Gun15_Nested/_04_JavaNestedLoop.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Gun15_Nested/_05_JavaNestedLoop.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Gun15_Nested/_05_JavaNestedLoop.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Gun17_Array_Trim_Split/_01_JavaArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Gun17_Array_Trim_Split/_01_JavaArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Gun17_Array_Trim_Split/_02_JavaArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Gun17_Array_Trim_Split/_02_JavaArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Gun17_Array_Trim_Split/_03_StringTrim.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Gun17_Array_Trim_Split/_03_StringTrim.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Gun17_Array_Trim_Split/_04_CharVeSayi.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Gun17_Array_Trim_Split/_04_CharVeSayi.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Gun17_Array_Trim_Split/_05_JavaSplitMetodu.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Gun17_Array_Trim_Split/_05_JavaSplitMetodu.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Gun17_Array_Trim_Split/_06_JavaArrayMetodlar.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Gun17_Array_Trim_Split/_06_JavaArrayMetodlar.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Gun17_Array_Trim_Split/_07_Soru.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Gun17_Array_Trim_Split/_07_Soru.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Gun17_Array_Trim_Split/_07_Soru_Tam_Cozum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Gun17_Array_Trim_Split/_07_Soru_Tam_Cozum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Gun18_2DArray/_01_Java2DArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Gun18_2DArray/_01_Java2DArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Gun18_2DArray/_02_Java2DArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Gun18_2DArray/_02_Java2DArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Gun18_2DArray/_03_Java2DArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Gun18_2DArray/_03_Java2DArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Gun18_2DArray/_04_Java2DArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Gun18_2DArray/_04_Java2DArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Gun19_2DArray_Method/_01_Java2DArrays.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Gun19_2DArray_Method/_01_Java2DArrays.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Gun19_2DArray_Method/_02_Java2DArrays.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Gun19_2DArray_Method/_02_Java2DArrays.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Gun19_2DArray_Method/_03_Java2DArrays.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Gun19_2DArray_Method/_03_Java2DArrays.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Gun19_2DArray_Method/_04_JavaMethod.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Gun19_2DArray_Method/_04_JavaMethod.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Gun19_2DArray_Method/_05_JavaMethod.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Gun19_2DArray_Method/_05_JavaMethod.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Gun19_2DArray_Method/_06_JavaMethod.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Gun19_2DArray_Method/_06_JavaMethod.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Gun19_2DArray_Method/_07_JavaMethod.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Gun19_2DArray_Method/_07_JavaMethod.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Gun19_2DArray_Method/_08_JavaMethod.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Gun19_2DArray_Method/_08_JavaMethod.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Gun19_2DArray_Method/_09_JavaMethod.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Gun19_2DArray_Method/_09_JavaMethod.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Gun19_2DArray_Method/_10_OzelSoru.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Gun19_2DArray_Method/_10_OzelSoru.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Gun20_Method/_01_JavaMethod.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Gun20_Method/_01_JavaMethod.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Gun20_Method/_02_JavaMethod.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Gun20_Method/_02_JavaMethod.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Gun20_Method/_03_JavaMethod.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Gun20_Method/_03_JavaMethod.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Gun20_Method/_04_JavaMethod.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Gun20_Method/_04_JavaMethod.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Gun20_Method/_05_JavaMethod.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Gun20_Method/_05_JavaMethod.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Gun20_Method/_06_JavaMethod.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Gun20_Method/_06_JavaMethod.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Gun21_ArrayList/_01_ArrayList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Gun21_ArrayList/_01_ArrayList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Gun21_ArrayList/_02_ArrayList_Soru.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Gun21_ArrayList/_02_ArrayList_Soru.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Gun21_ArrayList/_03_ArrayList_Soru.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Gun21_ArrayList/_03_ArrayList_Soru.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Gun22_2DArrayList/_01_ArrayList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Gun22_2DArrayList/_01_ArrayList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Gun22_2DArrayList/_02_Java2DArrayList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Gun22_2DArrayList/_02_Java2DArrayList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Gun22_2DArrayList/_03_Java2DArrayList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Gun22_2DArrayList/_03_Java2DArrayList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Gun23_Sets/_01_HashSet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Gun23_Sets/_01_HashSet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Gun23_Sets/_02_Sets.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Gun23_Sets/_02_Sets.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Gun23_Sets/_03_Sets.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Gun23_Sets/_03_Sets.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Gun23_Sets/_04_Sets.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Gun23_Sets/_04_Sets.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Gun23_Sets/_05_Soru.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Gun23_Sets/_05_Soru.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Gun23_Sets/_06_Sets.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Gun23_Sets/_06_Sets.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Gun24_Maps/_01_JavaMap.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Gun24_Maps/_01_JavaMap.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Gun24_Maps/_02_JavaMap.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Gun24_Maps/_02_JavaMap.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Gun24_Maps/_03_JavaMap.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Gun24_Maps/_03_JavaMap.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Gun24_Maps/_04_JavaMap.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Gun24_Maps/_04_JavaMap.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Gun24_Maps/_05_Soru.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Gun24_Maps/_05_Soru.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Gun25_OOP/_01_/_01_JavaClassAndObject.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Gun25_OOP/_01_/_01_JavaClassAndObject.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Gun25_OOP/_02_Soru/Ogrenci.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Gun25_OOP/_02_Soru/Ogrenci.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Gun25_OOP/_02_Soru/Okul.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Gun25_OOP/_02_Soru/Okul.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Gun25_OOP/_03_Soru/Ogrenci.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Gun25_OOP/_03_Soru/Ogrenci.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Gun25_OOP/_03_Soru/Okul.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Gun25_OOP/_03_Soru/Okul.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Gun26_OOP/_01_Ornek/Kampus.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Gun26_OOP/_01_Ornek/Kampus.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Gun26_OOP/_01_Ornek/Ogrenci.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Gun26_OOP/_01_Ornek/Ogrenci.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Gun26_OOP/_01_Ornek/Okul.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Gun26_OOP/_01_Ornek/Okul.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Gun26_OOP/_02_Ornek/Ornek.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Gun26_OOP/_02_Ornek/Ornek.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Gun26_OOP/_02_Ornek/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Gun26_OOP/_02_Ornek/Person.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Gun26_OOP/_04_Ornek/ElektrikHesabi.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Gun26_OOP/_04_Ornek/ElektrikHesabi.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Gun26_OOP/_04_Ornek/Musteri.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Gun26_OOP/_04_Ornek/Musteri.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Gun26_OOP/_04_Ornek/Ornek.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Gun26_OOP/_04_Ornek/Ornek.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Gun27_Static/_01_Ornek/JavaStaticveNonStaticMetodlar.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Gun27_Static/_01_Ornek/JavaStaticveNonStaticMetodlar.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Gun27_Static/_01_Ornek/Utility.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Gun27_Static/_01_Ornek/Utility.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Gun27_Static/_02_Ornek/MyMath.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Gun27_Static/_02_Ornek/MyMath.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Gun27_Static/_02_Ornek/Soru.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Gun27_Static/_02_Ornek/Soru.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Gun27_Static/_03_Ornek/Lesson.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Gun27_Static/_03_Ornek/Lesson.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Gun27_Static/_03_Ornek/Soru.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Gun27_Static/_03_Ornek/Soru.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Gun27_Static/_03_Ornek/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Gun27_Static/_03_Ornek/Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Gun28_Constructor/_01_Constructor/Ogrenci.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Gun28_Constructor/_01_Constructor/Ogrenci.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Gun28_Constructor/_01_Constructor/Okul.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Gun28_Constructor/_01_Constructor/Okul.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Gun28_Constructor/_02_Constructor/Book.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Gun28_Constructor/_02_Constructor/Book.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Gun28_Constructor/_02_Constructor/Kitapci.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Gun28_Constructor/_02_Constructor/Kitapci.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Gun28_Constructor/_03_Constructor/Book.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Gun28_Constructor/_03_Constructor/Book.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Gun28_Constructor/_03_Constructor/Kitapci.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Gun28_Constructor/_03_Constructor/Kitapci.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Gun28_Constructor/_04_Constructor/Bank.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Gun28_Constructor/_04_Constructor/Bank.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Gun28_Constructor/_04_Constructor/Bankalar.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Gun28_Constructor/_04_Constructor/Bankalar.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Gun29_Erisimler/Soru/Banka.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Gun29_Erisimler/Soru/Banka.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Gun29_Erisimler/Soru/Hesap.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Gun29_Erisimler/Soru/Hesap.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Gun29_Erisimler/Soru/Musteri.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Gun29_Erisimler/Soru/Musteri.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Gun29_Erisimler/_01_ClassErisimleri/PaketBir/DefaultErisim.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Gun29_Erisimler/_01_ClassErisimleri/PaketBir/DefaultErisim.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Gun29_Erisimler/_01_ClassErisimleri/PaketBir/PublicErisim.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Gun29_Erisimler/_01_ClassErisimleri/PaketBir/PublicErisim.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Gun29_Erisimler/_01_ClassErisimleri/PaketBir/mainKontrol.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Gun29_Erisimler/_01_ClassErisimleri/PaketBir/mainKontrol.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Gun29_Erisimler/_01_ClassErisimleri/PaketIki/DigerPaketMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Gun29_Erisimler/_01_ClassErisimleri/PaketIki/DigerPaketMain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Gun29_Erisimler/_02_PrivateErisim/Calisan.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Gun29_Erisimler/_02_PrivateErisim/Calisan.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Gun29_Erisimler/_02_PrivateErisim/Sirket.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Gun29_Erisimler/_02_PrivateErisim/Sirket.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Gun29_Erisimler/_03_Protected/bir/Doctor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Gun29_Erisimler/_03_Protected/bir/Doctor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Gun29_Erisimler/_03_Protected/bir/HastaneAnkara.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Gun29_Erisimler/_03_Protected/bir/HastaneAnkara.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Gun29_Erisimler/_03_Protected/iki/HastaneIstanbul.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Gun29_Erisimler/_03_Protected/iki/HastaneIstanbul.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Gun30_Final/GununSorusu.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Gun30_Final/GununSorusu.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Gun30_Final/_01_StaticVariables/_Ornek1/Ogrenci.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Gun30_Final/_01_StaticVariables/_Ornek1/Ogrenci.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Gun30_Final/_01_StaticVariables/_Ornek1/Okul.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Gun30_Final/_01_StaticVariables/_Ornek1/Okul.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Gun30_Final/_01_StaticVariables/_Ornek2/School.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Gun30_Final/_01_StaticVariables/_Ornek2/School.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Gun30_Final/_01_StaticVariables/_Ornek2/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Gun30_Final/_01_StaticVariables/_Ornek2/Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Gun30_Final/_02_FinalVariables/Ornek1/NufusMemurlugu.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Gun30_Final/_02_FinalVariables/Ornek1/NufusMemurlugu.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Gun30_Final/_02_FinalVariables/Ornek1/Vatandas.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Gun30_Final/_02_FinalVariables/Ornek1/Vatandas.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Gun30_Final/_02_FinalVariables/Ornek2/Sabitler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Gun30_Final/_02_FinalVariables/Ornek2/Sabitler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Gun30_Final/_02_FinalVariables/Ornek2/Soru.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Gun30_Final/_02_FinalVariables/Ornek2/Soru.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Gun31_Enum/_01_Enum/Ornek1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Gun31_Enum/_01_Enum/Ornek1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Gun31_Enum/_01_Enum/OrnekCozum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Gun31_Enum/_01_Enum/OrnekCozum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Gun31_Enum/_02_Enum/Rol.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Gun31_Enum/_02_Enum/Rol.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Gun31_Enum/_02_Enum/Soru.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Gun31_Enum/_02_Enum/Soru.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Gun31_Enum/_02_Enum/Statu.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Gun31_Enum/_02_Enum/Statu.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Gun31_Enum/_02_Enum/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Gun31_Enum/_02_Enum/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Gun31_Enum/_03_Enum/Aylar.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Gun31_Enum/_03_Enum/Aylar.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Gun31_Enum/_03_Enum/AylarMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Gun31_Enum/_03_Enum/AylarMain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Gun31_Enum/_04_GununSorusu/Pizza.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Gun31_Enum/_04_GununSorusu/Pizza.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Gun31_Enum/_04_GununSorusu/PizzaSiparisHattı.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Gun31_Enum/_04_GununSorusu/PizzaSize.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Gun31_Enum/_04_GununSorusu/PizzaSize.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Gun32_Encapsulation/_01_Encapsulation/Kisi.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Gun32_Encapsulation/_01_Encapsulation/Kisi.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Gun32_Encapsulation/_01_Encapsulation/KisiMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Gun32_Encapsulation/_01_Encapsulation/KisiMain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Gun32_Encapsulation/_02_Encapsulation/Araba.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Gun32_Encapsulation/_02_Encapsulation/Araba.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Gun32_Encapsulation/_02_Encapsulation/ArabaMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Gun32_Encapsulation/_02_Encapsulation/ArabaMain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Gun32_Encapsulation/_03_Encapsulation/Ogrenci.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Gun32_Encapsulation/_03_Encapsulation/Ogrenci.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Gun32_Encapsulation/_03_Encapsulation/Okul.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Gun32_Encapsulation/_03_Encapsulation/Okul.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Gun32_Encapsulation/_03_Encapsulation/OkulMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Gun32_Encapsulation/_03_Encapsulation/OkulMain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Gun33_Inheritance/_01_Inheritance/Personel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Gun33_Inheritance/_01_Inheritance/Personel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Gun33_Inheritance/_01_Inheritance/SirketMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Gun33_Inheritance/_01_Inheritance/SirketMain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Gun33_Inheritance/_01_Inheritance/Yonetici.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Gun33_Inheritance/_01_Inheritance/Yonetici.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Gun33_Inheritance/_01_Inheritance/YoneticiYeni.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Gun33_Inheritance/_01_Inheritance/YoneticiYeni.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Gun33_Inheritance/_02_Inheritance/Hayvan.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Gun33_Inheritance/_02_Inheritance/Hayvan.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Gun33_Inheritance/_02_Inheritance/HayvanatBahcesi.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Gun33_Inheritance/_02_Inheritance/HayvanatBahcesi.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Gun33_Inheritance/_02_Inheritance/Kedi.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Gun33_Inheritance/_02_Inheritance/Kedi.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Gun33_Inheritance/_02_Inheritance/Kopek.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Gun33_Inheritance/_02_Inheritance/Kopek.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Gun33_Inheritance/_02_Inheritance/Ordek.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Gun33_Inheritance/_02_Inheritance/Ordek.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Gun33_Inheritance/_02_Inheritance/Yilan.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Gun33_Inheritance/_02_Inheritance/Yilan.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Gun33_Inheritance/_03_Inheritance/Calisan.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Gun33_Inheritance/_03_Inheritance/Calisan.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Gun33_Inheritance/_03_Inheritance/GenelMudur.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Gun33_Inheritance/_03_Inheritance/GenelMudur.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Gun33_Inheritance/_03_Inheritance/SirketMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Gun33_Inheritance/_03_Inheritance/SirketMain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Gun33_Inheritance/_03_Inheritance/Soru" beforeDir="false" afterPath="$PROJECT_DIR$/src/Gun33_Inheritance/_03_Inheritance/Soru" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Gun34_Inheritance_Protected/_01_Ornek/Arac.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Gun34_Inheritance_Protected/_01_Ornek/Arac.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Gun34_Inheritance_Protected/_01_Ornek/AracPark.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Gun34_Inheritance_Protected/_01_Ornek/AracPark.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Gun34_Inheritance_Protected/_01_Ornek/Otobus.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Gun34_Inheritance_Protected/_01_Ornek/Otobus.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Gun34_Inheritance_Protected/_02_Ornek/IlkOgrencisi.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Gun34_Inheritance_Protected/_02_Ornek/IlkOgrencisi.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Gun34_Inheritance_Protected/_02_Ornek/LiseOgrencisi.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Gun34_Inheritance_Protected/_02_Ornek/LiseOgrencisi.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Gun34_Inheritance_Protected/_02_Ornek/OgrTip.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Gun34_Inheritance_Protected/_02_Ornek/OgrTip.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Gun34_Inheritance_Protected/_02_Ornek/Ogrenci.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Gun34_Inheritance_Protected/_02_Ornek/Ogrenci.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Gun34_Inheritance_Protected/_02_Ornek/Okul.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Gun34_Inheritance_Protected/_02_Ornek/Okul.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Gun34_Inheritance_Protected/_03_Protected/Paket1/P1Hayvan.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Gun34_Inheritance_Protected/_03_Protected/Paket1/P1Hayvan.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Gun34_Inheritance_Protected/_03_Protected/Paket1/P1Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Gun34_Inheritance_Protected/_03_Protected/Paket1/P1Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Gun34_Inheritance_Protected/_03_Protected/Paket2/P2Kedi.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Gun34_Inheritance_Protected/_03_Protected/Paket2/P2Kedi.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Gun34_Inheritance_Protected/_03_Protected/Paket2/P2Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Gun34_Inheritance_Protected/_03_Protected/Paket2/P2Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Gun35_Final_Polymorphism/_01_Final/attribute/ArabaMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Gun35_Final_Polymorphism/_01_Final/attribute/ArabaMain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Gun35_Final_Polymorphism/_01_Final/attribute/Tasit.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Gun35_Final_Polymorphism/_01_Final/attribute/Tasit.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Gun35_Final_Polymorphism/_01_Final/classFinal/ArabaMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Gun35_Final_Polymorphism/_01_Final/classFinal/ArabaMain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Gun35_Final_Polymorphism/_01_Final/classFinal/Gemi.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Gun35_Final_Polymorphism/_01_Final/classFinal/Gemi.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Gun35_Final_Polymorphism/_01_Final/classFinal/Tasitlar.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Gun35_Final_Polymorphism/_01_Final/classFinal/Tasitlar.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Gun35_Final_Polymorphism/_01_Final/method/Araclar.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Gun35_Final_Polymorphism/_01_Final/method/Araclar.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Gun35_Final_Polymorphism/_01_Final/method/AraclarMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Gun35_Final_Polymorphism/_01_Final/method/AraclarMain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Gun35_Final_Polymorphism/_01_Final/method/Ucak.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Gun35_Final_Polymorphism/_01_Final/method/Ucak.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Gun35_Final_Polymorphism/_02_Polymorphism/CiftlikMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Gun35_Final_Polymorphism/_02_Polymorphism/CiftlikMain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Gun35_Final_Polymorphism/_02_Polymorphism/Hayvan.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Gun35_Final_Polymorphism/_02_Polymorphism/Hayvan.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Gun35_Final_Polymorphism/_02_Polymorphism/Kedi.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Gun35_Final_Polymorphism/_02_Polymorphism/Kedi.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Gun35_Final_Polymorphism/_02_Polymorphism/Kopek.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Gun35_Final_Polymorphism/_02_Polymorphism/Kopek.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Gun35_Final_Polymorphism/_03_Polymorphism_Soru/Calisan.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Gun35_Final_Polymorphism/_03_Polymorphism_Soru/Calisan.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Gun35_Final_Polymorphism/_03_Polymorphism_Soru/Kisi.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Gun35_Final_Polymorphism/_03_Polymorphism_Soru/Kisi.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Gun35_Final_Polymorphism/_03_Polymorphism_Soru/Ogrenci.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Gun35_Final_Polymorphism/_03_Polymorphism_Soru/Ogrenci.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Gun35_Final_Polymorphism/_03_Polymorphism_Soru/OkulMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Gun35_Final_Polymorphism/_03_Polymorphism_Soru/OkulMain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Gun35_Final_Polymorphism/_03_Polymorphism_Soru/Soru" beforeDir="false" afterPath="$PROJECT_DIR$/src/Gun35_Final_Polymorphism/_03_Polymorphism_Soru/Soru" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Gun35_Final_Polymorphism/_04_Polymorphism/Calisan.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Gun35_Final_Polymorphism/_04_Polymorphism/Calisan.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Gun35_Final_Polymorphism/_04_Polymorphism/Kisi.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Gun35_Final_Polymorphism/_04_Polymorphism/Kisi.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Gun35_Final_Polymorphism/_04_Polymorphism/Ogrenci.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Gun35_Final_Polymorphism/_04_Polymorphism/Ogrenci.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Gun35_Final_Polymorphism/_04_Polymorphism/OkulMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Gun35_Final_Polymorphism/_04_Polymorphism/OkulMain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Gun36_Interface/_01_Interface/HepsiBurada.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Gun36_Interface/_01_Interface/HepsiBurada.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Gun36_Interface/_01_Interface/IMagaza.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Gun36_Interface/_01_Interface/IMagaza.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Gun36_Interface/_01_Interface/Trendyol.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Gun36_Interface/_01_Interface/Trendyol.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Gun36_Interface/_02_Interface/A6.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Gun36_Interface/_02_Interface/A6.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Gun36_Interface/_02_Interface/A6Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Gun36_Interface/_02_Interface/A6Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Gun36_Interface/_02_Interface/IYazdirabilir.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Gun36_Interface/_02_Interface/IYazdirabilir.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Gun36_Interface/_03_Interface/Cember.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Gun36_Interface/_03_Interface/Cember.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Gun36_Interface/_03_Interface/Dikdortgen.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Gun36_Interface/_03_Interface/Dikdortgen.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Gun36_Interface/_03_Interface/GeometriMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Gun36_Interface/_03_Interface/GeometriMain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Gun36_Interface/_03_Interface/ICizdir.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Gun36_Interface/_03_Interface/ICizdir.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Gun36_Interface/_04_Interface/A4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Gun36_Interface/_04_Interface/A4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Gun36_Interface/_04_Interface/A4Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Gun36_Interface/_04_Interface/A4Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Gun36_Interface/_04_Interface/IGosterir.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Gun36_Interface/_04_Interface/IGosterir.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Gun36_Interface/_04_Interface/IYazdirir.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Gun36_Interface/_04_Interface/IYazdirir.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Gun36_Interface/_04_Interface/IYazdırır.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Gun36_Interface/_05_Interface/IGosterir.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Gun36_Interface/_05_Interface/IGosterir.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Gun36_Interface/_05_Interface/IYazdirir.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Gun36_Interface/_05_Interface/IYazdirir.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Gun36_Interface/_05_Interface/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Gun36_Interface/_05_Interface/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Gun36_Interface/_05_Interface/TestMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Gun36_Interface/_05_Interface/TestMain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Gun36_Interface/_06_Interface/Dikdortgen.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Gun36_Interface/_06_Interface/Dikdortgen.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Gun36_Interface/_06_Interface/GeometriMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Gun36_Interface/_06_Interface/GeometriMain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Gun36_Interface/_06_Interface/I.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Gun36_Interface/_06_Interface/I.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Gun36_Interface/_06_Interface/Kare.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Gun36_Interface/_06_Interface/Kare.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Gun36_Interface/_06_Interface/Soru" beforeDir="false" afterPath="$PROJECT_DIR$/src/Gun36_Interface/_06_Interface/Soru" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Gun37_Interface/_01_Soru/Bus.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Gun37_Interface/_01_Soru/Bus.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Gun37_Interface/_01_Soru/IDeisel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Gun37_Interface/_01_Soru/IDeisel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Gun37_Interface/_01_Soru/IElektric.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Gun37_Interface/_01_Soru/IElektric.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Gun37_Interface/_01_Soru/IGaz.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Gun37_Interface/_01_Soru/IGaz.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Gun37_Interface/_01_Soru/IVehicle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Gun37_Interface/_01_Soru/IVehicle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Gun37_Interface/_01_Soru/TeslaCar.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Gun37_Interface/_01_Soru/TeslaCar.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Gun37_Interface/_01_Soru/ToyotaPrius.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Gun37_Interface/_01_Soru/ToyotaPrius.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Gun37_Interface/_01_Soru/Vehicle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Gun37_Interface/_01_Soru/Vehicle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Gun37_Interface/_01_Soru/VehicleMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Gun37_Interface/_01_Soru/VehicleMain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Gun37_Interface/_02_Soru/Animal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Gun37_Interface/_02_Soru/Animal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Gun37_Interface/_02_Soru/AnimalMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Gun37_Interface/_02_Soru/AnimalMain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Gun37_Interface/_02_Soru/Cat.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Gun37_Interface/_02_Soru/Cat.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Gun37_Interface/_02_Soru/Duck.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Gun37_Interface/_02_Soru/Duck.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Gun37_Interface/_02_Soru/IAnimal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Gun37_Interface/_02_Soru/IAnimal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Gun37_Interface/_02_Soru/IFlaying.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Gun37_Interface/_02_Soru/IFlaying.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Gun37_Interface/_02_Soru/ISailing.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Gun37_Interface/_02_Soru/ISailing.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Gun37_Interface/_02_Soru/Shark.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Gun37_Interface/_02_Soru/Shark.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Gun37_Interface/_02_Soru/Soru" beforeDir="false" afterPath="$PROJECT_DIR$/src/Gun37_Interface/_02_Soru/Soru" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Gun37_Interface/_02_Soru/Swallow.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Gun37_Interface/_02_Soru/Swallow.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Gun38_Abstract/OOP_OZET" beforeDir="false" afterPath="$PROJECT_DIR$/src/Gun38_Abstract/OOP_OZET" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Gun38_Abstract/_003_Abstract/Baklava.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Gun38_Abstract/_003_Abstract/Baklava.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Gun38_Abstract/_003_Abstract/CheeseCake.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Gun38_Abstract/_003_Abstract/CheeseCake.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Gun38_Abstract/_003_Abstract/Food.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Gun38_Abstract/_003_Abstract/Food.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Gun38_Abstract/_003_Abstract/GreekSlad.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Gun38_Abstract/_003_Abstract/GreekSlad.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Gun38_Abstract/_003_Abstract/Salad.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Gun38_Abstract/_003_Abstract/Salad.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Gun38_Abstract/_003_Abstract/SezarSalad.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Gun38_Abstract/_003_Abstract/SezarSalad.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Gun38_Abstract/_003_Abstract/Soru" beforeDir="false" afterPath="$PROJECT_DIR$/src/Gun38_Abstract/_003_Abstract/Soru" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Gun38_Abstract/_003_Abstract/Sweet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Gun38_Abstract/_003_Abstract/Sweet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Gun38_Abstract/_003_Abstract/YemekDunyasiMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Gun38_Abstract/_003_Abstract/YemekDunyasiMain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Gun38_Abstract/_01_Abstract/BinekOto.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Gun38_Abstract/_01_Abstract/BinekOto.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Gun38_Abstract/_01_Abstract/Ford.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Gun38_Abstract/_01_Abstract/Ford.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Gun38_Abstract/_01_Abstract/IBinekOto.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Gun38_Abstract/_01_Abstract/IBinekOto.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Gun38_Abstract/_01_Abstract/OtoMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Gun38_Abstract/_01_Abstract/OtoMain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Gun38_Abstract/_02_Abstract/Daire.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Gun38_Abstract/_02_Abstract/Daire.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Gun38_Abstract/_02_Abstract/Dikdortgen.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Gun38_Abstract/_02_Abstract/Dikdortgen.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Gun38_Abstract/_02_Abstract/OrnekMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Gun38_Abstract/_02_Abstract/OrnekMain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Gun38_Abstract/_02_Abstract/Sekil.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Gun38_Abstract/_02_Abstract/Sekil.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Gun38_Abstract/_02_Abstract/Soru" beforeDir="false" afterPath="$PROJECT_DIR$/src/Gun38_Abstract/_02_Abstract/Soru" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Gun39_OOP_Sorulari/_01_OOP_Soru/Hayvan.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Gun39_OOP_Sorulari/_01_OOP_Soru/Hayvan.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Gun39_OOP_Sorulari/_01_OOP_Soru/HayvanatBahcesi.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Gun39_OOP_Sorulari/_01_OOP_Soru/HayvanatBahcesi.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Gun39_OOP_Sorulari/_01_OOP_Soru/Kartal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Gun39_OOP_Sorulari/_01_OOP_Soru/Kartal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Gun39_OOP_Sorulari/_01_OOP_Soru/Kedi.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Gun39_OOP_Sorulari/_01_OOP_Soru/Kedi.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Gun39_OOP_Sorulari/_02_OOP_Soru/A.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Gun39_OOP_Sorulari/_02_OOP_Soru/A.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Gun39_OOP_Sorulari/_02_OOP_Soru/ABMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Gun39_OOP_Sorulari/_02_OOP_Soru/ABMain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Gun39_OOP_Sorulari/_02_OOP_Soru/B.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Gun39_OOP_Sorulari/_02_OOP_Soru/B.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Gun39_OOP_Sorulari/_03_OOP_Soru/A.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Gun39_OOP_Sorulari/_03_OOP_Soru/A.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Gun39_OOP_Sorulari/_03_OOP_Soru/ABMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Gun39_OOP_Sorulari/_03_OOP_Soru/ABMain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Gun39_OOP_Sorulari/_03_OOP_Soru/B.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Gun39_OOP_Sorulari/_03_OOP_Soru/B.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Gun39_OOP_Sorulari/_04_OOP_Soru/Soru.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Gun39_OOP_Sorulari/_04_OOP_Soru/Soru.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Gun39_OOP_Sorulari/_05_OOP_Soru/AdanaKebab.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Gun39_OOP_Sorulari/_05_OOP_Soru/AdanaKebab.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Gun39_OOP_Sorulari/_05_OOP_Soru/Borsh.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Gun39_OOP_Sorulari/_05_OOP_Soru/Borsh.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Gun39_OOP_Sorulari/_05_OOP_Soru/IFood.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Gun39_OOP_Sorulari/_05_OOP_Soru/IFood.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Gun39_OOP_Sorulari/_05_OOP_Soru/Lahmacun.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Gun39_OOP_Sorulari/_05_OOP_Soru/Lahmacun.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Gun39_OOP_Sorulari/_05_OOP_Soru/Palov.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Gun39_OOP_Sorulari/_05_OOP_Soru/Palov.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Gun39_OOP_Sorulari/_05_OOP_Soru/TechnoCafe.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Gun39_OOP_Sorulari/_05_OOP_Soru/TechnoCafe.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Gun39_OOP_Sorulari/_05_OOP_Soru/TechnoKitchen.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Gun39_OOP_Sorulari/_05_OOP_Soru/TechnoKitchen.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Gun40_LocalDate/JavaLocalDate.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Gun40_LocalDate/JavaLocalDate.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Gun41_LocalTime_LocalDateTime/_01_JavaLocalTime.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Gun41_LocalTime_LocalDateTime/_01_JavaLocalTime.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Gun41_LocalTime_LocalDateTime/_02_Soru.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Gun41_LocalTime_LocalDateTime/_02_Soru.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Gun41_LocalTime_LocalDateTime/_03_Odev.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Gun41_LocalTime_LocalDateTime/_03_Odev.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Gun41_LocalTime_LocalDateTime/_04_JavaLocalDateTime.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Gun41_LocalTime_LocalDateTime/_04_JavaLocalDateTime.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Gun41_LocalTime_LocalDateTime/_05_Period.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Gun41_LocalTime_LocalDateTime/_05_Period.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Gun41_LocalTime_LocalDateTime/_06_Duration.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Gun41_LocalTime_LocalDateTime/_06_Duration.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Gun41_LocalTime_LocalDateTime/_07_ZonedDateTime.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Gun41_LocalTime_LocalDateTime/_07_ZonedDateTime.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Gun41_LocalTime_LocalDateTime/_08_ComparingDateAndTime.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Gun41_LocalTime_LocalDateTime/_08_ComparingDateAndTime.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Gun41_LocalTime_LocalDateTime/_09_StringToLocalDateAndTimeParse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Gun41_LocalTime_LocalDateTime/_09_StringToLocalDateAndTimeParse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Gun42_StringBuilderAndVeriTipleri/_01_StringBufferAndStringBuilder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Gun42_StringBuilderAndVeriTipleri/_01_StringBufferAndStringBuilder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Gun42_StringBuilderAndVeriTipleri/_02_JavaVeriTipleri.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Gun42_StringBuilderAndVeriTipleri/_02_JavaVeriTipleri.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Gun42_StringBuilderAndVeriTipleri/_03_VeriTiplerMetodda.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Gun42_StringBuilderAndVeriTipleri/_03_VeriTiplerMetodda.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Gun42_StringBuilderAndVeriTipleri/_04_StringKarsilastirma.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Gun42_StringBuilderAndVeriTipleri/_04_StringKarsilastirma.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Gun43_Try_Catch_Finally/_01_JavaExeption.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Gun43_Try_Catch_Finally/_01_JavaExeption.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Gun43_Try_Catch_Finally/_02_JavaRuntimeException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Gun43_Try_Catch_Finally/_02_JavaRuntimeException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Gun43_Try_Catch_Finally/_03_JavaTryCatch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Gun43_Try_Catch_Finally/_03_JavaTryCatch.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Gun43_Try_Catch_Finally/_04_JavaTryCatch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Gun43_Try_Catch_Finally/_04_JavaTryCatch.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Gun43_Try_Catch_Finally/_05_TryCatchFinally.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Gun43_Try_Catch_Finally/_05_TryCatchFinally.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Gun43_Try_Catch_Finally/_06_ThrowExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Gun43_Try_Catch_Finally/_06_ThrowExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Gun43_Try_Catch_Finally/_06_ThrowExample_2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Gun43_Try_Catch_Finally/_06_ThrowExample_2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Gun43_Try_Catch_Finally/_07_JavaCheckedVeUncheckedException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Gun43_Try_Catch_Finally/_07_JavaCheckedVeUncheckedException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Gun46/S19.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Gun46/S20.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Utility/MyFunc.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Utility/MyFunc.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="ExportToHTMLSettings">
+    <option name="OUTPUT_DIRECTORY" value="$PROJECT_DIR$/../javakursu5\exportToHTML" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
   <component name="ProjectId" id="2HEJmaUlWQTZHdEv6Q6e5gaUXvq" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/User/IdeaProjects/javakursu5/src/Gun34/_03_Ornek&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;vcs.Git&quot;
   }
-}]]></component>
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\User\IdeaProjects\javakursu5\src\Gun34\_03_Ornek" />
+      <recent name="C:\Users\User\IdeaProjects\javakursu5\src\Gun25_OOP\_01_" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\User\IdeaProjects\javakursu5\src\Gun38_Abstract\_003_Abstract" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.S20">
+    <configuration name="S19" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Gun46.S19" />
+      <module name="JavaKursu5" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Gun46.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="S20" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Gun46.S20" />
+      <module name="JavaKursu5" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Gun46.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="_04_JavaTryCatch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Gun43_Try_Catch_Finally._04_JavaTryCatch" />
+      <module name="JavaKursu5" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Gun43_Try_Catch_Finally.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="_05_TryCatchFinally" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Gun43_Try_Catch_Finally._05_TryCatchFinally" />
+      <module name="JavaKursu5" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Gun43_Try_Catch_Finally.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="_06_ThrowExample_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Gun43_Try_Catch_Finally._06_ThrowExample_2" />
+      <module name="JavaKursu5" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Gun43_Try_Catch_Finally.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.S20" />
+        <item itemvalue="Application.S19" />
+        <item itemvalue="Application._06_ThrowExample_2" />
+        <item itemvalue="Application._05_TryCatchFinally" />
+        <item itemvalue="Application._04_JavaTryCatch" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
+      <changelist id="796012af-f41f-45e8-9aa8-4183c86aa8a2" name="Changes" comment="" />
       <created>1667844473136</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
@@ -42,5 +534,39 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Gun15_Nested/_05_JavaNestedLoop.java</url>
+          <line>16</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Gun19_2DArray_Method/_01_Java2DArrays.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/Gun25_OOP/_03_Soru/Okul.java</url>
+          <line>24</line>
+          <properties class="Gun25_OOP._03_Soru.Okul" method="ogrencilerYazma">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/javakursu5$Okul.ic" NAME="Okul Coverage Results" MODIFIED="1672187720259" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>Gun25_OOP._03_Soru.*</FILTER>
+    </SUITE>
   </component>
 </project>

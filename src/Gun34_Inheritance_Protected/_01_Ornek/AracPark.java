@@ -1,4 +1,4 @@
-package Gun34._01_Ornek;
+package Gun34_Inheritance_Protected._01_Ornek;
 
 public class AracPark {
     public static void main(String[] args) {

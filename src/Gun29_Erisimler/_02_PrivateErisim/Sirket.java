@@ -1,6 +1,4 @@
-package Gun29._02_PrivateErisim;
-
-import Gun29._03_Protected.bir.Doctor;
+package Gun29_Erisimler._02_PrivateErisim;
 
 public class Sirket {
     public static void main(String[] args) {

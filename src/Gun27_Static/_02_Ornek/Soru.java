@@ -1,6 +1,4 @@
-package Gun27._02_Ornek;
-
-import Gun27._01_Ornek.Utility;
+package Gun27_Static._02_Ornek;
 
 public class Soru {
     public static void main(String[] args) {

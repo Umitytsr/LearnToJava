@@ -1,4 +1,4 @@
-package Gun33._01_Ornek;
+package Gun33_Inheritance._01_Inheritance;
 
 public class SirketMain {
     public static void main(String[] args) {

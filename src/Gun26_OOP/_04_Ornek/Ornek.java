@@ -1,4 +1,4 @@
-package Gun26._04_Ornek;
+package Gun26_OOP._04_Ornek;
 
 public class Ornek {
     public static void main(String[] args) {

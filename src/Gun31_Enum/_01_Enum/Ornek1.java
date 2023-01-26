@@ -1,4 +1,4 @@
-package Gun31._01_Enum;
+package Gun31_Enum._01_Enum;
 
 public class Ornek1 {
     public static void main(String[] args) {

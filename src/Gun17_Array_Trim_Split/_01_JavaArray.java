@@ -1,4 +1,4 @@
-package Gun17;
+package Gun17_Array_Trim_Split;
 
 public class _01_JavaArray {
     public static void main(String[] args) {

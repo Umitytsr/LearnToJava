@@ -1,4 +1,4 @@
-package Gun11;
+package Gun11_Ternary_Random;
 
 public class _06_JavaMath {
     public static void main(String[] args) {
@@ -16,7 +16,7 @@ public class _06_JavaMath {
         System.out.println("floor 4.7=" + Math.floor(4.7));//en yakın küçük tam sayıyı verir, cevap 4
 
 
-        int enb=Gun20._01_JavaMethod.enbBul(a,b);
+        int enb= Gun20_Method._01_JavaMethod.enbBul(a,b);
         System.out.println(enb);
     }
 }

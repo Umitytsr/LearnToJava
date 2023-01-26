@@ -1,4 +1,4 @@
-package Gun39._01_OOP_Soru;
+package Gun39_OOP_Sorulari._01_OOP_Soru;
 
 public class Kartal extends Hayvan{
     public Kartal(String isim, boolean vahsi, String dogumTarihi) {

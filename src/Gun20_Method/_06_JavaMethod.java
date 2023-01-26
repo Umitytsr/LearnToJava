@@ -1,4 +1,4 @@
-package Gun20;
+package Gun20_Method;
 
 public class _06_JavaMethod {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package Gun29._03_Protected.bir;
+package Gun29_Erisimler._03_Protected.bir;
 
 public class HastaneAnkara {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package Gun08;
+package Gun08_AritmeticOperators;
 
 public class _03_Ozet {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package Gun25._03_Soru;
+package Gun25_OOP._03_Soru;
 
 import java.util.ArrayList;
 import java.util.Scanner;
@@ -18,11 +18,11 @@ public class Okul {
 
             snf.add(ogr);
         }
-        ogrenciler(snf);
+        ogrencilerYazma(snf);
         notOrtalamasi(snf);
     }
 
-    public static void ogrenciler(ArrayList<Ogrenci> snf){
+    public static void ogrencilerYazma(ArrayList<Ogrenci> snf){
         for (Ogrenci ogr:snf) {
             System.out.println("ogr.okulNo = " + ogr.okulNo);
             System.out.println("ogr.tamAdi = " + ogr.tamAdi);

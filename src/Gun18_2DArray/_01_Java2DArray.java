@@ -1,4 +1,4 @@
-package Gun18;
+package Gun18_2DArray;
 
 import java.util.Scanner;
 

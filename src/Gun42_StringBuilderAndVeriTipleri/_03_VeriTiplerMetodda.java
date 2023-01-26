@@ -1,4 +1,4 @@
-package Gun42;
+package Gun42_StringBuilderAndVeriTipleri;
 
 import java.util.Arrays;
 

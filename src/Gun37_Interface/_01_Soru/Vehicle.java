@@ -1,4 +1,4 @@
-package Gun37._01_Soru;
+package Gun37_Interface._01_Soru;
 
 import java.util.ArrayList;
 
@@ -29,7 +29,11 @@ public class Vehicle {
 
     public static void yazdir(ArrayList<Vehicle> carList){
         for (Vehicle c:carList) {
-            System.out.println(c.getModel()+"\n"+c.getEngine());
+            System.out.println(c.getClass().getSimpleName());//class'ın ismini verir.
+
+
+            System.out.println("Model: "+c.getModel()+"\n"
+                    +"Engine: "+c.getEngine());
             if (c instanceof TeslaCar){
                 System.out.println(((TeslaCar)c).changeBatery());
                 System.out.println(((TeslaCar)c).drive());

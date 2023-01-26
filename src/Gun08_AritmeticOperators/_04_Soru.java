@@ -1,4 +1,4 @@
-package Gun08;
+package Gun08_AritmeticOperators;
 
 public class _04_Soru {
     public static void main(String[] args) {

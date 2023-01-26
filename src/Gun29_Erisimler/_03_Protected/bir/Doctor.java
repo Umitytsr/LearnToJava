@@ -1,4 +1,4 @@
-package Gun29._03_Protected.bir;
+package Gun29_Erisimler._03_Protected.bir;
 
 public class Doctor {
     protected String adi;   //default ile aynı

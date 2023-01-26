@@ -1,4 +1,4 @@
-package Gun39._04_OOP_Soru;
+package Gun39_OOP_Sorulari._04_OOP_Soru;
 
 class C{ // dede
     public C() {

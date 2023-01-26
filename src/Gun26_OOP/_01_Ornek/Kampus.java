@@ -1,4 +1,4 @@
-package Gun26._01_Ornek;
+package Gun26_OOP._01_Ornek;
 
 public class Kampus {
     public static void main(String[] args) {

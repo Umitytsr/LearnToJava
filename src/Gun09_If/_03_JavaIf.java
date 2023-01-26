@@ -1,4 +1,4 @@
-package Gun09;
+package Gun09_If;
 
 import java.util.Scanner;
 

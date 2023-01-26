@@ -1,4 +1,4 @@
-package Gun43;
+package Gun43_Try_Catch_Finally;
 
 import java.util.InputMismatchException;
 import java.util.Scanner;

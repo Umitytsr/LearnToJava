@@ -1,4 +1,4 @@
-package Gun25._02_Soru;
+package Gun25_OOP._02_Soru;
 
 import java.util.ArrayList;
 import java.util.Scanner;

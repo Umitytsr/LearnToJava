@@ -1,4 +1,4 @@
-package Gun28._02_Constructor;
+package Gun28_Constructor._02_Constructor;
 
 public class Book {
     String name;

@@ -1,4 +1,4 @@
-package Gun32._03_Encapsulation;
+package Gun32_Encapsulation._03_Encapsulation;
 
 public class Ogrenci {
     private int id;

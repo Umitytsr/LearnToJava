@@ -1,4 +1,4 @@
-package Gun19;
+package Gun19_2DArray_Method;
 
 public class _10_OzelSoru {
     public static void main(String[] args) {
@@ -11,5 +11,6 @@ public class _10_OzelSoru {
         //bu saatler kaç saat sonra ve dakika sonra tekrar
         //aynı saati gösterirler.
         //cevap=144 veya 288
+
     }
 }

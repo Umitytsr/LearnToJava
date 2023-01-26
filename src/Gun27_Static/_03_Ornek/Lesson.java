@@ -1,4 +1,4 @@
-package Gun27._03_Ornek;
+package Gun27_Static._03_Ornek;
 
 public class Lesson {
     String lessonName;

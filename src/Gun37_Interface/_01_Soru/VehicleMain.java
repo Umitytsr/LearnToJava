@@ -1,4 +1,4 @@
-package Gun37._01_Soru;
+package Gun37_Interface._01_Soru;
 
 import java.util.ArrayList;
 

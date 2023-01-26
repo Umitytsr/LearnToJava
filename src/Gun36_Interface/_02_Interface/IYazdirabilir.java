@@ -1,2 +1,5 @@
-package Gun36_Interface._02_Interface;public interface IYazdirabilir {
+package Gun36_Interface._02_Interface;
+
+public interface IYazdirabilir {
+    void yazdir();
 }

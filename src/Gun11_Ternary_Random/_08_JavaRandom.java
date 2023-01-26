@@ -1,4 +1,4 @@
-package Gun11;
+package Gun11_Ternary_Random;
 
 public class _08_JavaRandom {
     public static void main(String[] args) {

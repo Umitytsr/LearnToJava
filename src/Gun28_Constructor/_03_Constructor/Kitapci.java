@@ -1,4 +1,4 @@
-package Gun28._03_Constructor;
+package Gun28_Constructor._03_Constructor;
 
 public class Kitapci {
     //Book class yazınız. fields: name,publishYear, author

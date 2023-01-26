@@ -1,4 +1,4 @@
-package Gun31._03_Enum;
+package Gun31_Enum._03_Enum;
 
 public enum Aylar {
     OCAK(1,31,"Ocak"),
@@ -12,8 +12,7 @@ public enum Aylar {
     EYLUL(9,30,"Eylül"),
     EKIM(10,31,"Ekim"),
     KASIM(11,30,"Kasım"),
-    ARALIK(12,31,"Aralık"),
-    ;
+    ARALIK(12,31,"Aralık");
 
     //Buradan aşağısı sadece kendi içinde kullanılır
     int ayNo;

@@ -1,4 +1,4 @@
-package Gun04;
+package Gun04_Donusumler;
 
 public class _02_TipDonusumleri {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package Gun28._01_Constructor;
+package Gun28_Constructor._01_Constructor;
 
 public class Ogrenci {
     int id;

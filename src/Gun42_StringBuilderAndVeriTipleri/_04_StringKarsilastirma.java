@@ -1,4 +1,4 @@
-package Gun42;
+package Gun42_StringBuilderAndVeriTipleri;
 
 public class _04_StringKarsilastirma {
     public static void main(String[] args) {

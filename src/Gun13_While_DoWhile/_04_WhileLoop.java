@@ -1,4 +1,4 @@
-package Gun13;
+package Gun13_While_DoWhile;
 
 import java.util.Scanner;
 

@@ -1,4 +1,4 @@
-package Gun18;
+package Gun18_2DArray;
 
 public class _02_Java2DArray {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package Gun06;
+package Gun06_String;
 
 public class _07_StringConcat {
     public static void main(String[] args) {

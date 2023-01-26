@@ -1,4 +1,4 @@
-package Gun32._01_Encapsulation;
+package Gun32_Encapsulation._01_Encapsulation;
 
 public class Kisi {
     private String ad; // 25 karakter olsun
@@ -40,5 +40,13 @@ public class Kisi {
         }else{
             System.out.println("Hatalı soyad");
         }
+    }
+
+    public String getAd() {
+        return ad;
+    }
+
+    public String getSoyad() {
+        return soyad;
     }
 }

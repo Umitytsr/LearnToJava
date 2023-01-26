@@ -1,4 +1,4 @@
-package Gun36_Interface._01_Ornek;
+package Gun36_Interface._01_Interface;
 
 public interface IMagaza {
 

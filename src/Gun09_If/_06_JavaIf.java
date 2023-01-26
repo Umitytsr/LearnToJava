@@ -1,4 +1,4 @@
-package Gun09;
+package Gun09_If;
 
 import java.util.Scanner;
 
@@ -33,12 +33,12 @@ public class _06_JavaIf {
         //NOT!! If'in içine üstteki gibi ! konulursa değil anlamına gelir.
 
         //3. YOL
-        boolean varMı=cumle.contains("a");
+        boolean varMi=cumle.contains("a");
 
-        if (varMı==true){
+        if (varMi==true){
             System.out.println("EVET");
         }
-        if (varMı==false){
+        if (varMi==false){
             System.out.println("HAYIR");
         }
     }

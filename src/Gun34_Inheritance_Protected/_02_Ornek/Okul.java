@@ -1,4 +1,4 @@
-package Gun34._02_Ornek;
+package Gun34_Inheritance_Protected._02_Ornek;
 
 public class Okul {
     public static void main(String[] args) {

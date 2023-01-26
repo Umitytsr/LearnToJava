@@ -1,4 +1,4 @@
-package Gun29.Soru;
+package Gun29_Erisimler.Soru;
 
 public class Hesap {
     private int yatan=0;

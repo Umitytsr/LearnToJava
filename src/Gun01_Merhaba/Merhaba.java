@@ -1,4 +1,4 @@
-package Gun01;
+package Gun01_Merhaba;
 
 public class Merhaba {
     public static void main(String[] args) {

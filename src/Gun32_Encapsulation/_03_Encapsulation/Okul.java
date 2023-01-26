@@ -1,4 +1,4 @@
-package Gun32._03_Encapsulation;
+package Gun32_Encapsulation._03_Encapsulation;
 
 import java.util.ArrayList;
 

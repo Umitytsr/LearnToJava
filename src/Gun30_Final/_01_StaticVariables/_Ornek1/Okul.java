@@ -1,4 +1,4 @@
-package Gun30._01_StaticVariables._Ornek1;
+package Gun30_Final._01_StaticVariables._Ornek1;
 
 public class Okul {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package Gun27._02_Ornek;
+package Gun27_Static._02_Ornek;
 
 public class MyMath {
     public static int getMin(int a, int b){

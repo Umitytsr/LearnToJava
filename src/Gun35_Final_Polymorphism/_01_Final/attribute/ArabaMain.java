@@ -1,4 +1,4 @@
-package Gun35_FINAL._01_Final.attribute;
+package Gun35_Final_Polymorphism._01_Final.attribute;
 
 public class ArabaMain {
     public static void main(String[] args) {

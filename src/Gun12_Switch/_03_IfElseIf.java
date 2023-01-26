@@ -1,4 +1,4 @@
-package Gun12;
+package Gun12_Switch;
 
 import java.util.Scanner;
 

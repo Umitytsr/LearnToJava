@@ -1,4 +1,4 @@
-package Gun36_Interface._01_Ornek;
+package Gun36_Interface._01_Interface;
 
 public class HepsiBurada implements IMagaza{
 
@@ -29,6 +29,6 @@ public class HepsiBurada implements IMagaza{
 
     @Override
     public void krediSkoruGoser() {
-        
+
     }
 }

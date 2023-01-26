@@ -1,4 +1,4 @@
-package Gun39._02_OOP_Soru;
+package Gun39_OOP_Sorulari._02_OOP_Soru;
 
 public class ABMain {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package Gun08;
+package Gun08_AritmeticOperators;
 
 public class _01_JavaAritmeticOperators {
     public static void main(String[] args) {

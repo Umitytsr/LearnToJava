@@ -1,4 +1,4 @@
-package Gun07;
+package Gun07_String;
 
 public class _10_StringToUpperCase {
     public static void main(String[] args) {

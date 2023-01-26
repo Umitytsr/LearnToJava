@@ -1,4 +1,4 @@
-package Gun05;
+package Gun05_Scanner;
 
 import java.util.Scanner;
 

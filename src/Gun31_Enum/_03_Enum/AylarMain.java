@@ -1,4 +1,4 @@
-package Gun31._03_Enum;
+package Gun31_Enum._03_Enum;
 
 public class AylarMain {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package Gun39._05_OOP_Soru;
+package Gun39_OOP_Sorulari._05_OOP_Soru;
 
 public class Palov implements IFood{
     @Override

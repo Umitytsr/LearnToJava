@@ -1,6 +1,6 @@
-package Gun29._01_ClassErisimleri.PaketIki;
+package Gun29_Erisimler._01_ClassErisimleri.PaketIki;
 
-import Gun29._01_ClassErisimleri.PaketBir.PublicErisim;
+import Gun29_Erisimler._01_ClassErisimleri.PaketBir.PublicErisim;
 
 public class DigerPaketMain {
     public static void main(String[] args) {

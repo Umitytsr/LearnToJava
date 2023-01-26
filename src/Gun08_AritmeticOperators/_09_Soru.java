@@ -1,4 +1,4 @@
-package Gun08;
+package Gun08_AritmeticOperators;
 
 import java.util.Scanner;
 

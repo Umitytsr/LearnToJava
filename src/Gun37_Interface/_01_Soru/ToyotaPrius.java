@@ -1,4 +1,4 @@
-package Gun37._01_Soru;
+package Gun37_Interface._01_Soru;
 
 public class ToyotaPrius extends Vehicle implements IElektric,IGaz{
     public ToyotaPrius(String model, double engine) {

@@ -1,2 +1,5 @@
-package Gun36_Interface._04_Interface;public interface IGosterir {
+package Gun36_Interface._04_Interface;
+
+public interface IGosterir {
+    void goster();
 }

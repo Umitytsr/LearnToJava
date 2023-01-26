@@ -1,6 +1,5 @@
-package Gun18;
+package Gun18_2DArray;
 
-import java.util.Arrays;
 import java.util.Scanner;
 
 public class _04_Java2DArray {

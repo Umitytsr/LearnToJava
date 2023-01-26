@@ -1,4 +1,4 @@
-package Gun30._02_FinalVariables.Ornek2;
+package Gun30_Final._02_FinalVariables.Ornek2;
 
 public class Sabitler {
 

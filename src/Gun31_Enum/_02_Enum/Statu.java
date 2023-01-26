@@ -1,4 +1,4 @@
-package Gun31._02_Enum;
+package Gun31_Enum._02_Enum;
 
 public enum Statu {
     AKTIF, PASIF

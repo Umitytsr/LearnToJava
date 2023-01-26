@@ -1,4 +1,4 @@
-package Gun29._01_ClassErisimleri.PaketBir;
+package Gun29_Erisimler._01_ClassErisimleri.PaketBir;
 
 public class PublicErisim {
     // public class

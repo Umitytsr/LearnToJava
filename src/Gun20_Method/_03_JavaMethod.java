@@ -1,4 +1,4 @@
-package Gun20;
+package Gun20_Method;
 
 import java.util.Scanner;
 

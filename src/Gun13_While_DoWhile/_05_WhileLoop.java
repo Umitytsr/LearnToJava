@@ -1,4 +1,4 @@
-package Gun13;
+package Gun13_While_DoWhile;
 
 public class _05_WhileLoop {
     public static void main(String[] args) {

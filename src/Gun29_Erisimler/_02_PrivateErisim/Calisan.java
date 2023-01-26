@@ -1,4 +1,4 @@
-package Gun29._02_PrivateErisim;
+package Gun29_Erisimler._02_PrivateErisim;
 
 public class Calisan {
     int id;

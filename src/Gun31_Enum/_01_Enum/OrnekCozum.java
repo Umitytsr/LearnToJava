@@ -1,4 +1,4 @@
-package Gun31._01_Enum;
+package Gun31_Enum._01_Enum;
 
 public class OrnekCozum {
 

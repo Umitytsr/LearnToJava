@@ -1,6 +1,5 @@
-package Gun19;
+package Gun19_2DArray_Method;
 
-import java.lang.reflect.Array;
 import java.util.Arrays;
 import java.util.Scanner;
 
